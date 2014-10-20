@@ -9,3 +9,4 @@
 
 .tmp
 .vagrant
+notebooks/.ipynb_checkpoints/
