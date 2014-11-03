@@ -1,7 +1,20 @@
 # R Programming
 
-> I'm very excited to start R Programming and I hope you are too. This is the second course in the Data Science Specialization and it focuses on the nuts and bolts of using R as a programming language.
+Nov 3<sup>rd</sup>&mdash;Dec 1<sup>st</sup> 2014 Edition
+
+> In this course you will learn how to program in R and how to use R for
+> effective data analysis. You will learn how to install and configure software
+> necessary for a statistical programming environment, discuss generic
+> programming language concepts as they are implemented in a high-level
+> statistical language. The course covers practical issues in statistical
+> computing which includes:
+>  * programming in R,
+>  * reading data into R,
+>  * accessing R packages,
+>  * writing R functions,
+>  * debugging, and
+>  * organizing and commenting R code.
 >
-> 1. **Week 1** will cover the history of R and S, go over the basic data types in R, and describe the functions for reading and writing data.
+> Topics in statistical data analysis and optimization will provide working examples.
 >
-> _– Roger Peng and the Data Science Team_
+> ––Roger Peng

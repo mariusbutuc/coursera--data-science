@@ -1,9 +1,19 @@
 # Getting and Cleaning Data!
 
-> This course will focus on preparing you for collecting and cleaning data for downstream analysis and sharing.
+Nov 3<sup>rd</sup>&mdash;Dec 1<sup>st</sup> 2014 Edition
+
+> Before you can work with data you have to get some. This course will cover
+> the basic ways that data can be obtained. The course will cover _obtaining
+> data_ from the web, from APIs, and from colleagues in various formats.
+> It will also cover the basics of _data cleaning_ and how to make data “tidy”.
+> Tidy data dramatically speed downstream data analysis tasks. The course will
+> also cover the components of a complete data set including
+>   * raw data,
+>   * processing instructions,
+>   * codebooks, and
+>   * processed data.
 >
-> One of the major components of a data scientist's job is to collect and clean data. Whether at a small organization or a major enterprise, the first step in using data is getting, cleaning and understanding the data. In this course we will focus on R packages and a few outside tools that can be used to collect data from a variety of sources, from Excel files to databases like MySQL. We will also cover a variety of formats including JSON, XML, and flat files (.csv, .txt).
+> The course will cover the basics needed for collecting, cleaning,
+> and sharing data.
 >
-> The emphasis of this course is on creating tidy data sets that can be used in downstream analyses. Once you have mastered the material in this course you will be ready to learn about the techniques for exploring, analyzing, and summarizing data offered through our courses track or other Statistics, Data Science, or Machine Learning MOOCs.
->
-> _– Jeff Leek and the Data Science Track Team_
+> ––Jeff Leek
