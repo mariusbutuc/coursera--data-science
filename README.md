@@ -12,7 +12,7 @@ Notes along a journey of structured learning about [Data Science][ds].
 
 ### Plan
 
-![Course timeline](http://i.imgur.com/wcsdkyq.png "Course timeline")
+![Course Dependency Graph](https://raw.githubusercontent.com/mariusbutuc/coursera--data-science/master/img/course_depency.png "Course Dependency Graph")
 
 
   [ds]: https://www.coursera.org/specialization/jhudatascience/1 'Data Science Specialization from Johns Hopkins University'
