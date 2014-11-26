@@ -16,7 +16,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.network "forwarded_port", guest: 8888, host: 8888
 
-  config.vm.synced_folder "science_data", "/science_data"
+  # default: /vagrant => /Users/marius/Code/coursera--data-science
 
   config.vm.provider "virtualbox" do |vb|
     vb.customize ["modifyvm", :id, "--memory", "1024"]

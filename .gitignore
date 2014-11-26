@@ -7,8 +7,9 @@
 # R data files from past sessions
 .Rdata
 
-.tmp
-.vagrant
-notebooks/.ipynb_checkpoints/
+tmp/
+lecture_resources/
+.vagrant/
+.ipynb_checkpoints/
 
 .DS_Store
